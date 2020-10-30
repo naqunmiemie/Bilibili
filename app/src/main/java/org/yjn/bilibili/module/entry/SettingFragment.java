@@ -22,7 +22,6 @@ public class SettingFragment extends RxLazyFragment {
         return new SettingFragment();
     }
 
-
     @Override
     public int getLayoutResId() {
         return R.layout.fragment_setting;
